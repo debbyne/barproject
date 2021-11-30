@@ -1,0 +1,54 @@
+  *{
+    font-family: 'Montez', cursive;
+    font-weight: 450;
+    font-size: 50px;
+  }
+  .nav-bar{
+      display: flex;
+      padding-top: 25px;
+      height: 180px;
+      color: white;
+      background-color: rgb(7, 4, 3);
+  }
+  .logo{
+      display: flex;
+  }
+  .nav{
+      margin-left: 650px;
+  }
+  .nav ul {
+    display: flex;
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: 30;
+  }
+  .nav ul li {
+    margin: 1rem;
+  }
+  .nav ul a {
+    text-decoration: none;
+    color: rgb(245, 248, 248);
+  }
+  .main{
+      background-image: url(images/bar.jpeg);
+      height: 700px;
+      width: 2000px;
+      color: white;
+    }
+    .par{
+        padding: 60px;
+    }
+.imgs{
+display: flex;
+flex-wrap: wrap;
+padding-top: 40px;
+padding-left: 300px;
+row-gap: 20px;
+column-gap: 200px;
+
+
+}
+.foot{
+    background-color: black;
+    color: rgb(245, 250, 250);
+}
