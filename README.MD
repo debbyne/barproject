@@ -3,7 +3,7 @@ best burgar spot in the country
 
 # Description
 
--You can order any drink or cocktail that you want at our lounge while participating in our infamous karaoke nights
+-You can order any drink or cocktail that you want at our lounge while participating in our famous karaoke nights 
 
 # Setup
  You get access  it at https://debbyne.github.io/barproject/
